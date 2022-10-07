@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nish-ace
 - 👀 I’m interested in ML and Data Science
 - 🌱 I’m currently learning Deep Learning
+- 👨‍🎓 I'm pursuing Master's in Mathematics and Computing from IIT Guwahati
 - 📫 How to reach me: https://www.linkedin.com/in/nishchalagarwal18/
 
 <!---
