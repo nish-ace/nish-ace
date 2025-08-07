@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @nish-ace
-- 👀 I’m interested in ML and Data Science
-- 🌱 I’m currently learning Deep Learning
-- 👨‍🎓 I'm pursuing Master's in Mathematics and Computing from IIT Guwahati
-- 📫 How to reach me: https://www.linkedin.com/in/nishchalagarwal18/
+# 👋 Hi, I’m Nishchal Agarwal (@nish-ace)
+
+- 🎓 Graduate in Mathematics and Computing from IIT Guwahati  
+- 📈 Entry-level Actuarial Analyst | Member of the Institute and Faculty of Actuaries (IFoA)  
+- 🤖 Passionate about Machine Learning, Deep Learning, and Data Science  
+- 📊 Keen interest in applying data-driven methods to Insurance, Finance, and Risk Modeling  
+- 🧠 Currently exploring Deep Learning and its applications in actuarial science and beyond  
+- 🛠️ Working on projects in predictive modeling, computer vision, and NLP  
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nishchalagarwal18/)
+
 
 <!---
 nish-ace/nish-ace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
